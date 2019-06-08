@@ -2,4 +2,4 @@
 
 Esta saga de libros cuenta la historia de un Hacker excepcional.
 
-**Angel Cerrajero**
+**Angel Cerrajero**, Git fan.
